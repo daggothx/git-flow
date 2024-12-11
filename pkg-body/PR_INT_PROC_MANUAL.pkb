@@ -4,6 +4,7 @@ CREATE OR REPLACE PACKAGE BODY ACSELPRB.PR_INT_PROC_MANUAL AS
 REVISIONES(NUEVA VERSION DIMENSIONS:
   Version       Fecha        Autor          Incidencia        Cambio realizado
 --------------------------------------------------------------------------------
+    1.4       11/12/2024     kron-fm          ggfgfgf         PRUEBA
     1.3       20/08/2023     COTECSA-MX     COLWSSEGUR-6414   Rehabilitacion Stock. Cambiar Operaciones ANU sin Monto a MOD.
     1.2       20/08/2023     COTECSA-MX     COLWSSEGUR-6414   Rehabilitacion Stock. Mejora Validacion para Reverso de Oblig. por Devolucion
     1.1       11/08/2023     COTECSA-MX     COLWSSEGUR-6414   Rehabilitacion Stock.
